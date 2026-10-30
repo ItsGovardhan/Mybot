@@ -1,4 +1,4 @@
-const BOT_INVITE_URL = "";
+const BOT_INVITE_URL = "https://discord.com/oauth2/authorize?client_id=1565576697028419584&permissions=1649539214400&integration_type=0&scope=bot+applications.commands";
 
 const commandExamples = {
   giveaways: [
